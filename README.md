@@ -35,7 +35,11 @@
 ###
 
 <br clear="both">
-
-<!-- <img align="left"  height="400" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif"/> -->
+<!-- <img
+  align="left"
+  height="200"
+  src="https://i.pinimg.com/originals/53/c8/8c/53c88c1383f3a873273b23a365006197.gif"
+  alt="Animated GIF"
+/> -->
 
 ###
